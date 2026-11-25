@@ -1,0 +1,38 @@
+/* Copper Pan Diner — page shell styling. The game itself is drawn on the
+   canvas; this file only frames it: a dark diner-room backdrop, a centred
+   stage that keeps the 1280x800 play field's shape, and the visually hidden
+   status line screen readers announce. */
+
+html, body {
+  margin: 0;
+  height: 100%;
+  background: #241a16 radial-gradient(1200px 700px at 50% 30%, #3a2a20 0%, #241a16 70%);
+  overflow: hidden;
+}
+
+#stage {
+  position: fixed;
+  inset: 0;
+  display: grid;
+  place-items: center;
+}
+
+#game {
+  width: min(100vw, calc(100vh * 1.6));
+  height: min(100vh, calc(100vw / 1.6));
+  display: block;
+  border-radius: 10px;
+  box-shadow: 0 24px 70px rgba(0, 0, 0, 0.55), 0 4px 18px rgba(0, 0, 0, 0.5);
+  touch-action: none;
+  cursor: pointer;
+}
+
+/* Read aloud, never shown. */
+#status {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
