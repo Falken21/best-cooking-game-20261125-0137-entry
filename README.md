@@ -1,8 +1,8 @@
 # Copper Pan Diner
 
-![make.fun competition](https://make.fun/badge/best-cooking-game-20261125-0137.svg)
-![entry rank](https://make.fun/badge/best-cooking-game-20261125-0137/Falken21/best-cooking-game-20261125-0137-entry/rank.svg)
-![entry reward](https://make.fun/badge/best-cooking-game-20261125-0137/Falken21/best-cooking-game-20261125-0137-entry/reward.svg)
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/Falken21/best-cooking-game-20261125-0137-entry/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/Falken21/best-cooking-game-20261125-0137-entry/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 A cozy cooking game that plays offline in a desktop browser. You run the
 Copper Pan Diner: order tickets pin up on the board, each with its own
